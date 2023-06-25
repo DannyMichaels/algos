@@ -6,7 +6,7 @@ A leaf is a node with no children.
 
 ## example 1: 
 
-https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg
+(https://assets.leetcode.com/uploads/2021/01/18/pathsum1.jpg)
 
 ```
 Input: root = [5,4,8,11,null,13,4,7,2,null,null,null,1], targetSum = 22
